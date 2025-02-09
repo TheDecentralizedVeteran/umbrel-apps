@@ -1,0 +1,19 @@
+{
+  "id": "sparrow-wallet",
+  "version": "2.1.2",
+  "name": "Sparrow Wallet",
+  "description": "A Bitcoin wallet with advanced features.",
+  "maintainers": ["your-github-username"],
+  "repository": "https://github.com/sparrowwallet/sparrow",
+  "platform": "bitcoin",
+  "docker": "sparrow-wallet-docker-image",
+  "appStoreIcon": "https://github.com/sparrowwallet/sparrow/blob/master/src/main/resources/image/sparrow-large.png",
+  "category": "wallets",
+  "releaseNotes": {
+    "2.1.2": "Latest release notes here"
+  },
+  "screenshots": [
+    "https://camo.githubusercontent.com/b26fa43d17f699769dc30ceb1bdf137fd46c1fe9cee033e622b45594264d4867/68747470733a2f2f73706172726f7777616c6c65742e636f6d2f6173736574732f696d616765732f636f6e74726f6c2d796f75722d73656e64732e706e67",
+    "URL_to_screenshot2"
+  ]
+}
