@@ -1,0 +1,33 @@
+manifestVersion: 1
+id: thedecentralizedveteran-sparrow-wallet
+name: Sparrow Wallet
+tagline: A desktop Bitcoin wallet for advanced users
+icon: https://github.com/sparrowwallet/sparrow/blob/master/src/main/resources/image/sparrow-icon.png  # Replace with the actual icon URL
+category: bitcoin
+version: "2.1.2"  # The latest version from the release notes
+port: 5000
+description: >-
+  Sparrow Wallet is a powerful Bitcoin wallet designed for advanced users. It provides full control of your private keys, supports multi-signature, hardware wallet integration, and offers a variety of other advanced features for power users.
+
+  Sparrow Wallet allows you to sign transactions with hardware wallets like Ledger, Trezor, and Coldcard. It also supports custom fee management, coin control, and has robust privacy features, making it an ideal wallet for anyone serious about Bitcoin.
+
+  ⚠️ Sparrow Wallet is designed for advanced users who are familiar with Bitcoin’s technical concepts.
+developer: Sparrow Wallet Team
+website: https://sparrowwallet.com
+submitter: The-Decentralized-Veteran
+submission: https://github.com/getumbrel/umbrel-apps/pull/ (to be replaced with actual pull request link)
+repo: https://github.com/sparrowwallet/sparrow
+support: https://github.com/sparrowwallet/sparrow/issues
+gallery:
+  - https://camo.githubusercontent.com/b26fa43d17f699769dc30ceb1bdf137fd46c1fe9cee033e622b45594264d4867/68747470733a2f2f73706172726f7777616c6c65742e636f6d2f6173736574732f696d616765732f636f6e74726f6c2d796f75722d73656e64732e706e67  # Replace with actual gallery image URLs
+  - https://sparrowwallet.com/assets/images/control-your-sends-2x.png
+  - https://sparrowwallet.com/assets/images/standards-based-2x.png
+  - https://sparrowwallet.com/assets/images/not-browser-based-2x.png
+  - https://sparrowwallet.com/assets/images/all-wallet-types-2x.png
+releaseNotes: >-
+  This release includes improvements to transaction signing with hardware wallets, UI updates, and various bug fixes.
+
+dependencies:
+  path: ""
+  defaultUsername: ""
+  defaultPassword: ""
